@@ -1,4 +1,4 @@
-# Abhay Singh - Advanced Portfolio Website
+# Abhay Singh -  Portfolio Website
 
 A world-class, production-grade personal portfolio built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, and **GSAP**.
 
