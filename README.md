@@ -148,7 +148,7 @@ Feel free to fork and customize for your own portfolio!
 
 ## 📄 License
 
-MIT © 2026 Abhay Singh Chouhan
+MIT © 2026 **Abhay Singh Chouhan**
 
 ## 🙋 Support
 
