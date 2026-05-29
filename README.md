@@ -32,8 +32,6 @@ npm install
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) to see your portfolio.
-
 ### Build for Production
 
 ```bash
